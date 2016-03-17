@@ -4,10 +4,9 @@
 # Firmware for OLD S1 Remotes (BLANK BATTERY COVER, NO LABEL)
 - For older remotes that have a **blank surface** (**without labels**) on their battery doors.
 
-# Mac OS X compatible firmware updates coming soon.
-
 # changelog:
 March 16, 2016 
 - extends range and battery life
 - stability fixes
 - adds Canon 5DsR to compatible cameras
+Mac OS X compatible firmware updates coming soon.
